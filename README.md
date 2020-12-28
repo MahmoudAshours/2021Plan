@@ -1,10 +1,16 @@
 # 2021Plan
 
-This repository is to conclude each step in 2021.
+This repository is to conclude each step in 2021 with complete details.
 
-This list of topics won't be updated , but the details of each topic will.
+This list of topics won't be updated , but the details of each topic will. 
 This may include courses , TODO projects , etc..
-I'll be breaking each topic to pieces including what resources I used to learn this topic , open source projects I've made on this topic & tips,tricks about this topic.
+
+I'll be breaking each topic to pieces including:
+
+- Brief introduction about each topic.
+- What resources I used to learn this topic.
+- Open source projects I've made on this topic. 
+- Tips,tricks about this topic.
 
 I'll work to finish at least 3/4 of the topics! 
 
