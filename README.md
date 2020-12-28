@@ -10,11 +10,11 @@ I'll work to finish at least 3/4 of the topics!
 
 ## VScode extensions
 
-At least 2 VScode extensions. (with articles)
+- [ ] At least 2 VScode extensions. (with articles)
 
 ## Chrome extensions
-At least 2 Chrome ( brave ) extensions. (with articles)
-Using Flutter to make chrome extension
+- [ ] At least 2 Chrome ( brave ) extensions. (with articles)
+- [ ] Using Flutter to make chrome extension
 
 ## Flutter
 - [ ] Mastering streams with Redux in Flutter.
