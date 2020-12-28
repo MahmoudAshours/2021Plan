@@ -17,52 +17,52 @@ At least 2 Chrome ( brave ) extensions. (with articles)
 Using Flutter to make chrome extension
 
 ## Flutter
-Mastering streams with Redux in Flutter.
-Mastering streams with Bloc in Flutter
-Complete guide of using python scripts in flutter
-Complete guide of FFMPEG (learning and using it in flutter)
-Publish at least 1 flutter application on store.
-Updates on Copia.
-Publish Flutter app on IOS 
+- [ ] Mastering streams with Redux in Flutter.
+- [ ] Mastering streams with Bloc in Flutter
+- [ ] Complete guide of using python scripts in flutter
+- [ ] Complete guide of FFMPEG (learning and using it in flutter)
+- [ ] Publish at least 1 flutter application on store.
+- [ ] Updates on Copia.
+- [ ] Publish Flutter app on IOS 
 
 ## Design pattern
-Design pattern course.
+- [ ] Design pattern course.
 
 ## Linux
-Make a native linux app
-Linux administration course
-Flutter Desktop app 
-Publish apps on snapcraft linux
+- [ ] Make a native linux app
+- [ ] Linux administration course
+- [ ] Flutter Desktop app 
+- [ ] Publish apps on snapcraft linux
 
 ## Unity
-Publish AR app with unity
+- [ ] Publish AR app with unity
 
 ## Medium articles
-100 technical article
+- [ ] 100 technical article
 
 ## Trolls
-Making a python virus 
+- [ ] Making a python virus 
 
 ## Devops
-Learning quick intro about docker , Devops etc..
+- [ ] Learning quick intro about docker , Devops etc..
 
 ## Books
-Finishing Clean code book (with explanation on YT).
+- [ ] Finishing Clean code book (with explanation on YT).
 
 ## WatchOs
-Complete mastering of Tizen OS
-Publish Samsung gear faces
+- [ ] Complete mastering of Tizen OS
+- [ ] Publish Samsung gear faces
 
 ## Javascript
-JS course.
+- [ ] JS course.
 
 ## TypeScript
-TS course.
+- [ ] TS course.
 
 ## Python
-Introduction on Flask and its capabilities.
+- [ ] Introduction on Flask and its capabilities.
 
 ## Huawei
-Publish Huawei theme
-Publish Huawei watch face
+- [ ] Publish Huawei theme
+- [ ] Publish Huawei watch face
 
