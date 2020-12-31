@@ -72,3 +72,6 @@ I'll work to finish at least 3/4 of the topics!
 - [ ] Publish Huawei theme
 - [ ] Publish Huawei watch face
 
+## Open source
+- [ ] A complete git course.
+- [ ] A complete github course.
