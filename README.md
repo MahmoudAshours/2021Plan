@@ -35,10 +35,20 @@ I'll work to finish at least 3/4 of the topics!
 - [ ] Design pattern course.
 
 ## Linux
+### TODO
 - [ ] Make a native linux app
 - [ ] Linux administration course
 - [ ] Flutter Desktop app 
 - [ ] Publish apps on snapcraft linux
+
+### Introduction
+I've started linux basics course which was mandatory at university. 
+The course had a few topics about commands & how OS works in general.
+
+This repo contains all of my scripts I worked on :
+
+- [Linux Basic scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts)
+- Also, an introduction material about linux in general & using command line in the [4GC repo](https://github.com/MeitanteiAshour/4thGradeCurriculum/blob/main/4GC.md#operating-systems--__)
 
 ## Unity
 - [ ] Publish AR app with unity
