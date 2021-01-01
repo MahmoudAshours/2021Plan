@@ -57,6 +57,8 @@ FFmpeg is the leading multimedia framework, able to decode, encode, transcode, m
 
 #### Flutter FFMPEG
 
+![flutterffmpeg](https://user-images.githubusercontent.com/50237142/103447033-b32bef00-4c8e-11eb-8258-0a8dcce55a67.png)
+
 FFmpeg plugin for Flutter. Supports iOS and Android.
 
 
