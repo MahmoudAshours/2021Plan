@@ -132,5 +132,9 @@ This repo contains all of my scripts I worked on :
 ## Daily problem solving challenges
 *Note :* Solve whatever problem on any problem solving website. Using Dart , Python or C++
 
+- [Code Wars account](https://www.codewars.com/users/Mahmoud%20Ashour)
+- [Code Forces account](https://codeforces.com/profile/Metantei)
+
 Problems Solved :
-- [ ] 
+- Day 1 : [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013/train/dart) , [(Application on List generate)](https://api.dart.dev/stable/2.10.4/dart-core/List/List.generate.html)
+- Day 2 :
