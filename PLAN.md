@@ -42,6 +42,9 @@ Resources :
 - [FFMPEG reddit](https://www.reddit.com/r/ffmpeg/)
 - [FFMPEG documentation](https://ffmpeg.org/documentation.html)
 - [FFMEG cheat sheets](https://trac.ffmpeg.org/#CommunityContributedDocumentation)
+- [FFMPEG Tutorial slides](http://slhck.info/ffmpeg-encoding-course/#/16)
+- [An Introduction to
+ FFmpeg, Timelapse and Fulldome Video Production book](http://www.astro-electronic.de/FFmpeg_Book.pdf)
 - [FFMPEG Complete guide (SUPER USEFUL)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [FFMPEG Book](https://books.google.com.eg/books?id=4U34DwAAQBAJ&pg=PT64&dq=ffmpeg&hl=en&sa=X&ved=2ahUKEwi5q6fVxvvtAhVsaRUIHZNbBVEQ6AEwAHoECAMQAg#v=onepage&q&f=false)
 
