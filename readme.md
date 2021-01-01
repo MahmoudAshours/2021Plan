@@ -41,6 +41,7 @@ I'll work to finish at least 3/4 of the topics!
 Resources :
 - [FFMPEG reddit](https://www.reddit.com/r/ffmpeg/)
 - [FFMPEG documentation](https://ffmpeg.org/documentation.html)
+- [FFMPEG Introduction YT playlist](https://www.youtube.com/watch?v=M58rc7cxl_s)
 - [FFMEG cheat sheets](https://trac.ffmpeg.org/#CommunityContributedDocumentation)
 - [FFMPEG Tutorial slides](http://slhck.info/ffmpeg-encoding-course/#/16)
 - [An Introduction to
@@ -49,8 +50,19 @@ Resources :
 - [FFMPEG Book](https://books.google.com.eg/books?id=4U34DwAAQBAJ&pg=PT64&dq=ffmpeg&hl=en&sa=X&ved=2ahUKEwi5q6fVxvvtAhVsaRUIHZNbBVEQ6AEwAHoECAMQAg#v=onepage&q&f=false)
 
 
+
 #### What is FFMPEG?
+
 FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.
+
+#### Flutter FFMPEG
+
+FFmpeg plugin for Flutter. Supports iOS and Android.
+
+
+- [Article about FFMPEG FLutter](https://medium.com/hamza-solutions/ffmpeg-tool-with-flutter-ac1d68c2fddb?source=rss-------1)
+- [FFMPEG Package in Flutter](https://pub.dev/packages/flutter_ffmpeg)
+
 
 ## Design pattern
 - [ ] Design pattern course.
