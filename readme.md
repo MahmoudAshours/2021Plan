@@ -30,7 +30,7 @@ I'll work to finish at least 3/4 of the topics!
 - [ ] Mastering streams with Bloc in Flutter
 - [ ] Complete guide of using python scripts in flutter
 - [ ] Publish at least 1 flutter application on store.
-- [ ] Updates on Copia.
+- [ ] Updates on [Copia](https://play.google.com/store/apps/details?id=com.copia.pdf&hl=en&gl=US).
 - [ ] Publish Flutter app on IOS 
 
 
