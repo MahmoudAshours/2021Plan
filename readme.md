@@ -129,6 +129,11 @@ This repo contains all of my scripts I worked on :
 - [ ] A complete git course.
 - [ ] A complete github course.
 
+## Random topics 
+
+Random topics are topics that weren't planned to do.
+- [ ] RegExp (Regular expression)
+
 ## Daily problem solving challenges
 
 ![ballons](https://user-images.githubusercontent.com/50237142/103448148-fa6dac00-4c9d-11eb-8654-5f47eee22fb9.png)
@@ -140,7 +145,8 @@ This repo contains all of my scripts I worked on :
 
 Problems Solved :
 - Day 1 : [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013/train/dart) , [(Application on List generate)](https://api.dart.dev/stable/2.10.4/dart-core/List/List.generate.html)
-- Day 2 :
+- Day 2 : [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/dart) , [(Application on Lists in dart)](https://api.dart.dev/stable/2.10.4/dart-core/List/remove.html) , also could be solved using [RegExp](https://api.dart.dev/stable/2.10.4/dart-core/RegExp-class.html)
+
 - Day 3 :
 - Day 4 :
 - Day 5 :
