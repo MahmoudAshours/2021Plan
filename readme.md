@@ -247,8 +247,7 @@ Random topics are topics that weren't planned to do.
 Problems Solved :
 - Day 1 : [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013/train/dart) , [(Application on List generate)](https://api.dart.dev/stable/2.10.4/dart-core/List/List.generate.html)
 - Day 2 : [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/dart) , [(Application on Lists in dart)](https://api.dart.dev/stable/2.10.4/dart-core/List/remove.html) , also could be solved using [RegExp](https://api.dart.dev/stable/2.10.4/dart-core/RegExp-class.html)
-
-- Day 3 :
+- Day 3 : [A Rule of Divisibility by 13](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/dart) , Solved it using Strings & Lists.
 - Day 4 :
 - Day 5 :
 - Day 6 :
