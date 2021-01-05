@@ -32,7 +32,10 @@ I'll work to finish at least 3/4 of the topics!
 - [ ] Publish at least 1 flutter application on store.
 - [ ] Updates on [Copia](https://play.google.com/store/apps/details?id=com.copia.pdf&hl=en&gl=US).
 - [ ] Publish Flutter app on IOS 
+- [ ] Testing in Flutter (Widget testing)
 
+#### Dart
+- [ ] Testing in Dart.
 
 ### FFMPEG
 
@@ -80,6 +83,7 @@ Tracking progress :
 - [ ] Make a native linux app
 - [ ] Linux administration course
 - [ ] Flutter Desktop app 
+- [ ] Ethical hacking & Penetration testing
 - [ ] Publish apps on snapcraft linux
 
 ### Introduction
