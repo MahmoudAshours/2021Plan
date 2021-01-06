@@ -254,8 +254,8 @@ Problems Solved :
 - Day 3 : [A Rule of Divisibility by 13](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/dart) , Solved it using Strings & Lists.
 - Day 4 : [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/dart) , This Kata is similar to the Valid Parentheses Kata. Good practice on Strings. (RegExp is a bonus)
 
-- Day 5 :[Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/dart)
-- Day 6 :
+- Day 5 : [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/dart)
+- Day 6 : [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train/dart) (Was Fun)
 - Day 7 :
 - Day 8 :
 - Day 9 :
