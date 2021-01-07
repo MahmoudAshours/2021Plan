@@ -257,10 +257,26 @@ Random topics are topics that weren't planned to do.
 
 ![ballons](https://user-images.githubusercontent.com/50237142/103448148-fa6dac00-4c9d-11eb-8654-5f47eee22fb9.png)
 
-*Note :* Solve whatever problem on any problem solving website. Using Dart , Python or C++
+*Note :* Solve whatever problem on any problem solving website.
+Using Dart , Python3 , C++ & Shell script
 
 - [Code Wars account](https://www.codewars.com/users/Mahmoud%20Ashour)
 - [Code Forces account](https://codeforces.com/profile/Metantei)
+- [Hacker Rank](https://www.hackerrank.com/mashour365?hr_r=1)
+- [Leet Code](https://leetcode.com/Meitantei/)
+
+In order to keep up the pace in all languages mentioned ,The ideal is that I'd like to give every website a week.
+
+### For example :
+
+First week : Code wars using dart & Shell.
+
+Second week : Code Forces using Cpp.
+
+Third week : Hacker rank using python.
+
+Fourth week : Leetcode using python.
+
 
 Problems Solved :
 - Day 1 : [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013/train/dart) , [(Application on List generate)](https://api.dart.dev/stable/2.10.4/dart-core/List/List.generate.html)
