@@ -103,6 +103,8 @@ This repo contains all of my scripts I worked on :
 
 I got the Linux basics for hackers book in order to increase the skill in linux also to know some security stuff.
 
+Will be practicing basics of linux & Cyber security on [Try Hack me](https://tryhackme.com/p/MahmoudAshour)
+
 ## Unity
 
 - [ ] Publish AR app with unity
