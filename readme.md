@@ -261,8 +261,9 @@ As a Developer students club lead , GDG member also I thrive become a GDE. I sho
 This is to track my StackOverFlow answers.
 There's nothing expected like : answer 1000 questions on something!
 
-[My profile](https://stackoverflow.com/users/8779968/mahmoud-ashour?tab=profile)
 
+<a href="https://stackoverflow.com/users/8779968/mahmoud-ashour"><img src="https://stackoverflow.com/users/flair/8779968.png?theme=dark" width="208" height="58" alt="profile for Mahmoud Ashour at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mahmoud Ashour at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ 
 - [Splash Screen](https://stackoverflow.com/questions/65597665/flutter-android-splash-screen-still-white/65600052#65600052)
 
 ## Daily problem solving challenges
