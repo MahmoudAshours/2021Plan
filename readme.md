@@ -97,10 +97,18 @@ This repo contains all of my scripts I worked on :
 - [Linux Basic scripts](https://github.com/MeitanteiAshour/BasicLinuxScripts)
 - Also, an introduction material about linux in general & using command line in the [4GC repo](https://github.com/MeitanteiAshour/4thGradeCurriculum/blob/main/4GC.md#operating-systems--__)
 
+## Book :
+
+![lbfh](https://user-images.githubusercontent.com/50237142/103901626-1049f980-5102-11eb-99b7-efe8523c2291.jpg)
+
+I got the Linux basics for hackers book in order to increase the skill in linux also to know some security stuff.
+
 ## Unity
+
 - [ ] Publish AR app with unity
 
 ## Medium articles
+
 100 Techincal article (Posted on Medium , LinkedIn , Leads platform)
 - Article 1 :
 - Article 2 :
@@ -211,7 +219,13 @@ This repo contains all of my scripts I worked on :
 - [ ] Learning quick intro about docker , Devops etc..
 
 ## Books
+Each topic in every book can be written & summarized into an article.
+
 - [ ] Finishing Clean code book (with explanation on YT).
+- [ ] Finishing Linux Basics for hackers book.
+- [ ] Finishing Head first Design Patterns book.
+- [ ] Finishing Flutter recipes book.
+- [ ] Finishing Practical flutter book.
 
 ## WatchOs
 - [ ] Complete mastering of Tizen OS
