@@ -112,7 +112,7 @@ Will be practicing basics of linux & Cyber security on [Try Hack me](https://try
 ## Medium articles
 
 100 Techincal article (Posted on Medium , LinkedIn , Leads platform)
-- Article 1 :
+- Article 1 : Wildcards?
 - Article 2 :
 - Article 3 :
 - Article 4 :
