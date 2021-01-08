@@ -302,7 +302,7 @@ Problems Solved :
 - Day 5 : [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/dart)
 - Day 6 : [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train/dart) (Was Fun)
 - Day 7 : [Nut Farm](https://www.codewars.com/kata/59884371d1d8d3d9270000a5/train/dart) (Impressive algorithm , Also had a new experience using [Label in dart](https://www.tutorialspoint.com/dart_programming/dart_programming_loops.htm#:~:text=A%20label%20is%20simply%20an,statement%20and%20its%20label%20name.))
-- Day 8 :
+- Day 8 : [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/shell) (First training in shell , bit sloppy)
 - Day 9 :
 - Day 10 :
 - Day 11 :
