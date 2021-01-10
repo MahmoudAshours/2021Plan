@@ -213,6 +213,8 @@ Will be practicing basics of linux & Cyber security on [Try Hack me](https://try
 - Article 99 :
 - Article 100 :
 
+## Embedded systems
+
 
 ## Trolls
 - [ ] Making a python virus 
@@ -242,9 +244,10 @@ Each topic in every book can be written & summarized into an article.
 ## Python
 - [ ] Introduction on Flask and its capabilities.
 
-## Huawei
+## Huawei Developement
 - [ ] Publish Huawei theme
 - [ ] Publish Huawei watch face
+- [ ] Publish app on Huwaei store
 
 ## Open source
 - [ ] A complete git course.
