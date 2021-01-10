@@ -304,7 +304,7 @@ Problems Solved :
 - Day 7 : [Nut Farm](https://www.codewars.com/kata/59884371d1d8d3d9270000a5/train/dart) (Impressive algorithm , Also had a new experience using [Label in dart](https://www.tutorialspoint.com/dart_programming/dart_programming_loops.htm#:~:text=A%20label%20is%20simply%20an,statement%20and%20its%20label%20name.))
 - Day 8 : [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/shell) (First training in shell , bit sloppy)
 - Day 9 : [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/shell)
-- Day 10 :
+- Day 10 : [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/dart)
 - Day 11 :
 - Day 12 :
 - Day 13 :
