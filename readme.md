@@ -308,7 +308,7 @@ Problems Solved :
 - Day 8 : [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/shell) (First training in shell , bit sloppy)
 - Day 9 : [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/shell)
 - Day 10 : [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/dart)
-- Day 11 : [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/shell)
+- Day 11 : [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/shell) , [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/shell) ( Some easy problems on shell)
 - Day 12 :
 - Day 13 :
 - Day 14 :
