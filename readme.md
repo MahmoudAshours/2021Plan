@@ -245,6 +245,16 @@ Each topic in every book can be written & summarized into an article.
 ## Python
 - [ ] Introduction on Flask and its capabilities.
 
+## Flask
+
+![flask](https://user-images.githubusercontent.com/50237142/104234684-7618e700-545c-11eb-928a-a939d7e42104.png)
+
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools
+
+#### Resources :
+- [Flask Pallet](https://flask.palletsprojects.com/en/1.1.x/)
+
+
 ## Huawei Developement
 - [ ] Publish Huawei theme
 - [ ] Publish Huawei watch face
