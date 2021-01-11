@@ -215,6 +215,7 @@ Will be practicing basics of linux & Cyber security on [Try Hack me](https://try
 
 ## Embedded systems
 
+## Data Mining
 
 ## Trolls
 - [ ] Making a python virus 
