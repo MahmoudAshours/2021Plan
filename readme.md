@@ -107,6 +107,38 @@ Will be practicing basics of linux & Cyber security on [Try Hack me](https://try
 
 ## Hacking (Ethical / CyberSecurity / Pentesting)
 
+![markus-spiske-666905-unsplash](https://user-images.githubusercontent.com/50237142/104407423-3cce9d00-556a-11eb-8026-f1912deb567d.jpg)
+
+*Inserts Vandetta mask*
+
+So, Ethical hacking is a structured hacking performed to expose vulnerabilities in a system, using tools and techniques with the organization's' knowledge.
+Which **A white hat is** , specializes in penetration testing and in other testing methodologies that ensures the security of an organization's information systems. Ethical hacking is a term meant to imply a broader category than just penetration testing.
+
+Resources : 
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=15798s)
+
+#### What is Pentesting?
+
+![pentest](https://user-images.githubusercontent.com/50237142/104407684-d9913a80-556a-11eb-8640-3f75752a6bcf.png)
+
+A penetration test, also known as a pen test, is a simulated cyber attack against your computer system to check for exploitable vulnerabilities. In the context of web application security
+
+#### Tools used in Pentesting
+
+#### Data gathering :
+
+- [Built with](https://builtwith.com/)
+BuiltWith gives us the right amount of data mixed with intelligence to find prospects that matter. There's not a better tool to gain a competitive edge.
+
+- [Certificate](https://crt.sh/)
+Enter an Identity (Domain Name, Organization Name, etc),
+a Certificate Fingerprint (SHA-1 or SHA-256)
+
+- [The Harvester](https://github.com/laramies/theHarvester)
+theHarvester is a very simple to use, yet powerful and effective tool designed to be used in the early stages of a
+penetration test or red team engagement. Use it for open source intelligence (OSINT) gathering to help determine a
+company's external threat landscape on the internet. The tool gathers emails, names, subdomains, IPs and URLs using
+
 
 ## Unity
 
