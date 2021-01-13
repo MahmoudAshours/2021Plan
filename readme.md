@@ -61,7 +61,8 @@ I'll work to finish at least 3/4 of the topics!
 
 ![ffmpeg](https://user-images.githubusercontent.com/50237142/103445595-101fa900-4c7f-11eb-94ea-a1bc4584f711.png)
 
-Resources :
+### Resources :
+
 - [FFMPEG reddit](https://www.reddit.com/r/ffmpeg/)
 - [FFMPEG documentation](https://ffmpeg.org/documentation.html)
 - [FFMPEG Introduction YT playlist](https://www.youtube.com/watch?v=M58rc7cxl_s)
@@ -71,7 +72,8 @@ Resources :
  FFmpeg, Timelapse and Fulldome Video Production book](http://www.astro-electronic.de/FFmpeg_Book.pdf)
 - [FFMPEG Complete guide (SUPER USEFUL)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [FFMPEG Book](https://books.google.com.eg/books?id=4U34DwAAQBAJ&pg=PT64&dq=ffmpeg&hl=en&sa=X&ved=2ahUKEwi5q6fVxvvtAhVsaRUIHZNbBVEQ6AEwAHoECAMQAg#v=onepage&q&f=false)
-
+- [Where can I learn ffmpeg?](https://stackoverflow.com/questions/60230868/where-can-i-learn-ffmpeg)
+- [Editing multiple videos using FFMPEG](https://www.youtube.com/watch?v=wBCUqi52E4Q)
 
 
 #### What is FFMPEG?
@@ -84,13 +86,13 @@ FFmpeg is the leading multimedia framework, able to decode, encode, transcode, m
 
 FFmpeg plugin for Flutter. Supports iOS and Android.
 
-
+### Resources :
 - [Article about FFMPEG FLutter](https://medium.com/hamza-solutions/ffmpeg-tool-with-flutter-ac1d68c2fddb?source=rss-------1)
 - [FFMPEG Package in Flutter](https://pub.dev/packages/flutter_ffmpeg)
 
-Tracking progress :
+### Tracking progress :
 - [x] Worked on a [shell script on linux](https://github.com/MeitanteiAshour/BasicLinuxScripts/blob/master/README.md#adding-different-commands) that uses FFMPEG 
-
+- [x] Working on FFMPEG rendering videos , audios in Moaref project.
 
 ## Design pattern
 - [ ] Design pattern course.
