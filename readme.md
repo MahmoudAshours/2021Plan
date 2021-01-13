@@ -16,6 +16,26 @@ I'll be breaking each topic to pieces including:
 
 I'll work to finish at least 3/4 of the topics! 
 
+## Topics : 
+
+### Extensions
+- [Visual Studio Code extension](https://github.com/MeitanteiAshour/2021Plan/blob/main/readme.md#vscode-extensions)
+- [Google chrome extensions](https://github.com/MeitanteiAshour/2021Plan/blob/main/readme.md#chrome-extensions)
+
+### Flutter & Dart
+- [Flutter & FFMPEG](https://github.com/MeitanteiAshour/2021Plan/blob/main/readme.md#ffmpeg)
+- Flutter Redux
+- Flutter Bloc
+- Python in Flutter
+- Testing in Flutter
+- Testing in dart
+- Flutter Desktop app for linux
+
+### Linux 
+- Make a native linux app
+- Linux administration course
+- Ethical hacking & Penetration testing
+
 ## VScode extensions
 
 - [ ] At least 2 VScode extensions. (with articles)
