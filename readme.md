@@ -105,6 +105,9 @@ I got the Linux basics for hackers book in order to increase the skill in linux 
 
 Will be practicing basics of linux & Cyber security on [Try Hack me](https://tryhackme.com/p/MahmoudAshour)
 
+## Hacking (Ethical / CyberSecurity / Pentesting)
+
+
 ## Unity
 
 - [ ] Publish AR app with unity
@@ -216,6 +219,7 @@ Will be practicing basics of linux & Cyber security on [Try Hack me](https://try
 ## Embedded systems
 
 ## Data Mining
+
 
 ## Trolls
 - [ ] Making a python virus 
