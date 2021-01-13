@@ -377,7 +377,7 @@ Problems Solved :
 - Day 10 : [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/dart)
 - Day 11 : [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/shell) , [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/shell) ( Some easy problems on shell)
 - Day 12 : [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/train/dart)
-- Day 13 :
+- Day 13 : [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/dart)
 - Day 14 :
 - Day 15 :
 - Day 16 :
