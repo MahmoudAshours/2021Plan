@@ -325,7 +325,16 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 ## Random topics 
 
 Random topics are topics that weren't planned to do.
-- [ ] RegExp (Regular expression)
+#### RegExp (Regular expression)
+
+#### Can I add my own voice to TTS and can generate the paragraph with my own voice?
+![tts](https://user-images.githubusercontent.com/50237142/104816839-56037200-5826-11eb-90b9-454d1bf01f4c.jpeg)
+
+- [Question on Stackoverflow](https://stackoverflow.com/questions/45121645/can-i-add-my-own-voice-to-tts-and-can-generate-the-paragraph-with-my-own-voice)
+- [Be your own SIRI](https://www.youtube.com/watch?v=KSSsVhoR7FQ&t=118s) 
+- [Are You Hearing Voices?](https://elearningindustry.com/text-to-speech-software-complete-guide-top-authoring-tools-tts-support)
+- [Using Azure](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-custom-voice-create-voice)
+- [MaryTTS](https://www.quora.com/How-can-I-develop-a-TTS-engine-sounding-like-myself)
 
 ## StackOverFlow
 
