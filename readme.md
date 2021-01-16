@@ -391,7 +391,7 @@ Problems Solved :
 - Day 13 : [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/dart)
 - Day 14 : [Partition](https://codeforces.com/problemset/problem/946/a)
 - Day 15 : [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)
-- Day 16 : [(Easy) Division in Python](https://www.hackerrank.com/challenges/python-division/problem) ,
+- Day 16 : [(Easy) Division in Python](https://www.hackerrank.com/challenges/python-division/problem) ,[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/shell)
 - Day 17 :
 - Day 18 :
 - Day 19 :
