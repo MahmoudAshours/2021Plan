@@ -393,7 +393,7 @@ Problems Solved :
 - Day 15 : [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)
 - Day 16 : [(Easy) Division in Python](https://www.hackerrank.com/challenges/python-division/problem) ,[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/shell)
 - Day 17 : [(Easy) Hello world in python](https://www.hackerrank.com/challenges/py-hello-world/problem)
-- Day 18 :
+- Day 18 : [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell)
 - Day 19 :
 - Day 20 :
 - Day 21 :
