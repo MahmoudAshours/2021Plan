@@ -394,7 +394,7 @@ Problems Solved :
 - Day 16 : [(Easy) Division in Python](https://www.hackerrank.com/challenges/python-division/problem) ,[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/shell)
 - Day 17 : [(Easy) Hello world in python](https://www.hackerrank.com/challenges/py-hello-world/problem)
 - Day 18 : [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell) , [(Easy)Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
-- Day 19 :
+- Day 19 : [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 - Day 20 :
 - Day 21 :
 - Day 22 :
