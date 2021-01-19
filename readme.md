@@ -196,7 +196,12 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 - [What is ARCore , ARKit & ARfoundation?](https://unity3d.com/how-to/create-AR-games-in-Unity-efficiently)
 - [COMPLETE COURSE - Learn Unity's AR Foundation](https://www.youtube.com/watch?v=FGh7f-PaGQc&list=RDCMUCDJVbKWW-ThFTraRklmF1IQ&start_radio=1&rv=FGh7f-PaGQc)
 
+### * Using Unity version < 20 , requires you to configure your gradle version at minimum of gradle 5.6.4 
+- [Change version of Gradle](https://answers.unity.com/questions/1490992/change-version-of-gradle-to-46.html)
+- [Manifest merger failed with multiple errors; see logs!](https://forum.unity.com/threads/manifest-merger-failed-with-multiple-errors-see-logs.995170/)
 - [Android gradle issues with AR foundation](https://developers.google.com/ar/develop/unity/android-11-build)
+- [Download gradle versions](https://gradle.org/releases/)
+
 
 
 ## Medium articles
