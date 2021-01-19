@@ -207,6 +207,7 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 ## Courses :
 
 - [HandHeld AR on Coursera](https://www.coursera.org/learn/handheld-ar)
+- [Unity XR: How to Build AR and VR Apps Specialization](https://www.coursera.org/specializations/unity-xr)
 
 ### Flutter & Unity :
 
@@ -214,6 +215,7 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 - [flutter-unity/community On gitter](https://gitter.im/flutter-unity/community?at=5db99f893d669b28a0034f59)
 - [Flutter Unity package](https://pub.dev/packages/flutter_unity_widget)
 - [Flutter unity 3D widget for embedding unity in the flutter](https://medium.com/ionicfirebaseapp/flutter-unity-3d-widget-for-embedding-unity-in-the-flutter-e6126eb4902c)
+
 
 
 
