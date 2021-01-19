@@ -166,6 +166,26 @@ company's external threat landscape on the internet. The tool gathers emails, na
 
 - [ ] Publish AR app with unity
 
+## Unity [AR]
+
+![augmented](https://user-images.githubusercontent.com/50237142/105056148-8c3a2f00-5a7c-11eb-9c4e-288fe7ec3352.jpg)
+
+### What is AR?
+Augmented reality (AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory
+
+### What is Unity?
+
+![unity](https://user-images.githubusercontent.com/50237142/105056262-ad028480-5a7c-11eb-9ac8-f02ec8e0b5d0.png)
+
+[Unity](https://unity3d.com/get-unity/download) is the world’s most popular development platform for creating 2D and 3D multiplatform games and interactive experiences.
+
+With advances in AR technology, these examples are not that different from what might already be available for your smartphone. Augmented reality is, in fact, readily available and being used in a myriad of ways including as Snapchat lenses, in apps that help you find your car in a crowded parking lot, and in variety of shopping apps that let you try on clothes without even leaving home.
+
+Perhaps the most famous example of AR technology is the mobile app Pokemon Go, which was released in 2016 and quickly became an inescapable sensation. In the game, players locate and capture Pokemon characters that pop up in the real world—on your sidewalk, in a fountain, even in your own bathroom.
+
+### Augmented reality vs. Virtual reality
+This is rather different from virtual reality. Virtual reality means computer-generated environments for you to interact with, and be immersed in. Augmented reality (also known as AR), adds to the reality you would ordinarily see rather than replacing it. 
+
 ## Medium articles
 
 100 Techincal article (Posted on Medium , LinkedIn , Leads platform)
