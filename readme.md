@@ -189,7 +189,14 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 ## Resources for Ar foundation in Unity :
 - [Creating Immersive AR with Unity 2019!](https://www.youtube.com/watch?v=FuKzngwzDYI)
 
+- [Configuring your Unity Project for XR](https://docs.unity3d.com/Manual/configuring-project-for-xr.html)
+
 - To get [started with AR development](https://docs.unity3d.com/Manual/AROverview.html), Unity recommends using AR Foundation to create your application for Unity’s supported handheld AR and wearable AR devices.
+
+- [What is ARCore , ARKit & ARfoundation?](https://unity3d.com/how-to/create-AR-games-in-Unity-efficiently)
+- [COMPLETE COURSE - Learn Unity's AR Foundation](https://www.youtube.com/watch?v=FGh7f-PaGQc&list=RDCMUCDJVbKWW-ThFTraRklmF1IQ&start_radio=1&rv=FGh7f-PaGQc)
+
+- [Android gradle issues with AR foundation](https://developers.google.com/ar/develop/unity/android-11-build)
 
 
 ## Medium articles
