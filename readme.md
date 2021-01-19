@@ -186,6 +186,12 @@ Perhaps the most famous example of AR technology is the mobile app Pokemon Go, w
 ### Augmented reality vs. Virtual reality
 This is rather different from virtual reality. Virtual reality means computer-generated environments for you to interact with, and be immersed in. Augmented reality (also known as AR), adds to the reality you would ordinarily see rather than replacing it. 
 
+## Resources for Ar foundation in Unity :
+- [Creating Immersive AR with Unity 2019!](https://www.youtube.com/watch?v=FuKzngwzDYI)
+
+- To get [started with AR development](https://docs.unity3d.com/Manual/AROverview.html), Unity recommends using AR Foundation to create your application for Unity’s supported handheld AR and wearable AR devices.
+
+
 ## Medium articles
 
 100 Techincal article (Posted on Medium , LinkedIn , Leads platform)
