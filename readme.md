@@ -202,6 +202,19 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 - [Android gradle issues with AR foundation](https://developers.google.com/ar/develop/unity/android-11-build)
 - [Download gradle versions](https://gradle.org/releases/)
 
+- [Complete Article on Overlaying , (Creating Mobile Augmented Reality Experiences in Unity)](https://programminghistorian.org/en/lessons/creating-mobile-augmented-reality-experiences-in-unity)
+
+## Courses :
+
+- [HandHeld AR on Coursera](https://www.coursera.org/learn/handheld-ar)
+
+### Flutter & Unity :
+
+- [Is it possible to embed a Unity game into a Flutter app?](https://stackoverflow.com/questions/50709990/is-it-possible-to-embed-a-unity-game-into-a-flutter-app)
+- [flutter-unity/community On gitter](https://gitter.im/flutter-unity/community?at=5db99f893d669b28a0034f59)
+- [Flutter Unity package](https://pub.dev/packages/flutter_unity_widget)
+- [Flutter unity 3D widget for embedding unity in the flutter](https://medium.com/ionicfirebaseapp/flutter-unity-3d-widget-for-embedding-unity-in-the-flutter-e6126eb4902c)
+
 
 
 ## Medium articles
