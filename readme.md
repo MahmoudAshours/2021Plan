@@ -421,11 +421,19 @@ There's nothing expected like : answer 1000 questions on something!
 ![ballons](https://user-images.githubusercontent.com/50237142/103448148-fa6dac00-4c9d-11eb-8654-5f47eee22fb9.png)
 
 *Note :* Solve whatever problem on any problem solving website.
-Using Dart , Python3 , C++ & Shell script
+Using Dart , Python3 , C++ , JS & Shell script
 
-- [Code Wars account](https://www.codewars.com/users/Mahmoud%20Ashour)
+Solving in more than 1 platform including : Hacker Rank , Leet code , Code Forces , Code wars , Code signal
+
+<a href="https://www.codewars.com/users/Mahmoud%20Ashour"><img src="https://www.codewars.com/users/Mahmoud%20Ashour/badges/small" width="208" height="58" alt="profile for Mahmoud Ashour at Code wars, Q&amp;A for professional and enthusiast programmers" title="profile for Mahmoud Ashour at Code wars  Q&amp;A for professional and enthusiast programmers"></a>
+
+
+<a href="https://app.codesignal.com/profile/meitanteiash"><img src="https://app.codesignal.com/user-icons/interview_practice/plan_selected.svg" width="80" height="58" alt="profile for Mahmoud Ashour at Code wars, Q&amp;A for professional and enthusiast programmers" title="profile for Mahmoud Ashour at Code wars  Q&amp;A for professional and enthusiast programmers"></a>
+
+
+<a href="https://www.hackerrank.com/mashour365"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" width="80" height="58" alt="profile for Mahmoud Ashour at Code wars, Q&amp;A for professional and enthusiast programmers" title="profile for Mahmoud Ashour at Code wars  Q&amp;A for professional and enthusiast programmers"></a>
+
 - [Code Forces account](https://codeforces.com/profile/Metantei)
-- [Hacker Rank](https://www.hackerrank.com/mashour365?hr_r=1)
 - [Leet Code](https://leetcode.com/Meitantei/)
 
 In order to keep up the pace in all languages mentioned ,The ideal is that I'd like to give every website a week.
