@@ -449,7 +449,7 @@ Problems Solved :
 - Day 18 : [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell) , [(Easy)Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
 - Day 19 : [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 - Day 20 : [Loops](https://www.hackerrank.com/challenges/python-loops/problem) , [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/dart) , used [sets](https://www.w3adda.com/dart-tutorial/dart-sets)
-- Day 21 : [Print Function](https://www.hackerrank.com/domains/python),
+- Day 21 : [Print Function](https://www.hackerrank.com/domains/python), [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/dart)
 - Day 22 :
 - Day 23 :
 - Day 24 :
