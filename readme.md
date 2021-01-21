@@ -161,6 +161,20 @@ theHarvester is a very simple to use, yet powerful and effective tool designed t
 penetration test or red team engagement. Use it for open source intelligence (OSINT) gathering to help determine a
 company's external threat landscape on the internet. The tool gathers emails, names, subdomains, IPs and URLs using
 
+## Hacking ( WIFI )
+In chapter 14 of [Linux basics for hackers](https://github.com/MeitanteiAshour/2021Plan#book-) , The author was talking about cracking a WIFI password ( though it's not the main scope of the book , but was intersting)
+
+### This will be a breif demnstration of WIFI(WPA2\PSK) password hacking :
+*First : *
+
+- Download Kali linux
+
+If you can't download Kali linux for some reason ( I have ubuntu ) , You can download all Kali linux libraries & tools using [Katoolin](https://www.fosslinux.com/6751/how-to-install-kali-linux-tools-using-katoolin-on-ubuntu-18-04-lts.htm)
+
+### Why Kali Linux ?
+
+The main reason is Kali Linux is used by hackers because it is a free OS and has over 600 tools for penetration testing and security analytics.
+We won't go deep in hacking/Cyber security but it's quite interesting using some of these tools!
 
 ## Unity
 
