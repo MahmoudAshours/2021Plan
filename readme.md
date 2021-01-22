@@ -472,7 +472,7 @@ Problems Solved :
 - Day 19 : [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 - Day 20 : [Loops](https://www.hackerrank.com/challenges/python-loops/problem) , [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/dart) , used [sets](https://www.w3adda.com/dart-tutorial/dart-sets)
 - Day 21 : [Print Function](https://www.hackerrank.com/domains/python), [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/dart)
-- Day 22 :
+- Day 22 : [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/train/dart) , [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 - Day 23 :
 - Day 24 :
 - Day 25 :
