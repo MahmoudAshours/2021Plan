@@ -476,7 +476,7 @@ Problems Solved :
 - Day 23 : [sudoku2](https://app.codesignal.com/interview-practice/task/SKZ45AF99NpbnvgTn/description) Seems like having a bug in dart test cases , [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 - Day 24 : [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) , [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
 - Day 25 : [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
-- Day 26 :
+- Day 26 : [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
 - Day 27 :
 - Day 28 :
 - Day 29 :
