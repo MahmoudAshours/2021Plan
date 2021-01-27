@@ -477,11 +477,12 @@ Problems Solved :
 - Day 24 : [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) , [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
 - Day 25 : [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
 - Day 26 : [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
-- Day 27 :
+- Day 27 : [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
 - Day 28 :
 - Day 29 :
 - Day 30 :
 - Day 31 :
+
 - Day 32 :
 - Day 33 :
 - Day 34 :
