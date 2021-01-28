@@ -478,7 +478,7 @@ Problems Solved :
 - Day 25 : [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
 - Day 26 : [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
 - Day 27 : [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
-- Day 28 : [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)
+- Day 28 : [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) , [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
 - Day 29 :
 - Day 30 :
 - Day 31 :
