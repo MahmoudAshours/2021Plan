@@ -484,7 +484,7 @@ Problems Solved :
 
 "In shell, * represents all files in the current directory. So, in order to use * as a multiplication operator, we should escape it like \*. If we directly use * in expr, we will get error message."
 
-- Day 31 :
+- Day 31 : [isCryptSolution](https://app.codesignal.com/interview-practice/task/yM4uWYeQTHzYewW9H/description)
 
 - Day 32 :
 - Day 33 :
