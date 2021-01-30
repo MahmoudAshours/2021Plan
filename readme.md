@@ -480,7 +480,10 @@ Problems Solved :
 - Day 27 : [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
 - Day 28 : [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) , [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
 - Day 29 : [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
-- Day 30 :
+- Day 30 : [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) 
+
+"In shell, * represents all files in the current directory. So, in order to use * as a multiplication operator, we should escape it like \*. If we directly use * in expr, we will get error message."
+
 - Day 31 :
 
 - Day 32 :
