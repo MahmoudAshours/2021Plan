@@ -487,7 +487,7 @@ Problems Solved :
 - Day 31 : [isCryptSolution](https://app.codesignal.com/interview-practice/task/yM4uWYeQTHzYewW9H/description)
 
 - Day 32 :[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
-- Day 33 :
+- Day 33 :[Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/dart)
 - Day 34 :
 - Day 35 :
 - Day 36 :
