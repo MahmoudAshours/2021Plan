@@ -490,7 +490,7 @@ Problems Solved :
 - Day 33 :[Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/dart)
 - Day 34 :[Add Two Digits](https://app.codesignal.com/arcade/code-arcade/intro-gates/wAGdN6FMPkx7WBq66/solutions)
 - Day 35 :[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)
-- Day 36 :
+- Day 36 :[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem)
 - Day 37 :
 - Day 38 :
 - Day 39 :
