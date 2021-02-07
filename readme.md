@@ -492,7 +492,7 @@ Problems Solved :
 - Day 35 :[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)
 - Day 36 :[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem)
 - Day 37 :[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/dart)
-- Day 38 :[centuryFromYear](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN)
+- Day 38 :[centuryFromYear](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN) , [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)
 - Day 39 :
 - Day 40 :
 - Day 41 :
