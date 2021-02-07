@@ -403,6 +403,18 @@ Random topics are topics that weren't planned to do.
 - [Using Azure](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-custom-voice-create-voice)
 - [MaryTTS](https://www.quora.com/How-can-I-develop-a-TTS-engine-sounding-like-myself)
 
+### ADB hacking 
+![adb](https://user-images.githubusercontent.com/50237142/107152840-e723bf80-6972-11eb-90fa-c001b77e5eda.jpeg)
+
+ADB is a command line tool that lets you communicate with an Android device that is connected over USB, or with an emulator. It allows you to pull data from the device such as application log files, memory usage data, and push and pull applications.This is very useful when doing regression testing, as you can automate the whole process, from pulling the old application from the device to pushing a new application onto the device, and then testing the application itself.
+
+- [How to enable usb debugging mode?](https://stackoverflow.com/questions/60099475/how-to-enable-usb-debugging-mode)
+- [Can We Enable USB Debugging using ADB Command?](https://technastic.com/usb-debugging-using-adb-command/)
+- [How can I connect to Android with ADB over TCP?](https://stackoverflow.com/questions/2604727/how-can-i-connect-to-android-with-adb-over-tcp)
+- [Create virtual USB tether to ADB over WAN with no initial USB connection](https://androidforums.com/threads/create-virtual-usb-tether-to-adb-over-wan-with-no-initial-usb-connection.1150571/)
+- [HOW TO RUN SHELL SCRIPTS ON ANDROID DEVICES](https://www.pctips4u.com/2016/03/writing-shell-scripts-in-android.html)
+- [Android: adbd cannot run as root in production builds](https://stackoverflow.com/questions/25271878/android-adbd-cannot-run-as-root-in-production-builds)
+
 ## StackOverFlow
 
 ![stack](https://user-images.githubusercontent.com/50237142/103905149-e9da8d00-5106-11eb-848b-539cabec4706.png)
