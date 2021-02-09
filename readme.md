@@ -236,12 +236,12 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 ## Medium articles
 
 100 Techincal article (Posted on Medium , LinkedIn , Leads platform)
-- Article 1 : Wildcards?
-- Article 2 :
-- Article 3 :
-- Article 4 :
-- Article 5 :
-- Article 6 :
+- Article 1 : [Dirty state — The whole story](https://mashour365.medium.com/dirty-state-the-whole-story-b8a6f46b9639)
+- Article 2 : Wild cards?
+- Article 3 : Is null safety important?
+- Article 4 : Shell scripts in Flutter!
+- Article 5 : Dive into automation
+- Article 6 : 
 - Article 7 :
 - Article 8 :
 - Article 9 :
