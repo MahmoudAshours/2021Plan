@@ -507,7 +507,7 @@ Problems Solved :
 - Day 38 :[centuryFromYear](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN) , [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)
 - Day 39 :[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)
 - Day 40 :[Schrödinger's Boolean](https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309/train/dart) (tricky)
-- Day 41 :
+- Day 41 :[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)
 - Day 42 :
 - Day 43 :
 - Day 44 :
