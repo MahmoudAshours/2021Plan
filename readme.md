@@ -509,7 +509,7 @@ Problems Solved :
 - Day 40 :[Schrödinger's Boolean](https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309/train/dart) (tricky)
 - Day 41 :[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)
 - Day 42 :[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem)
-- Day 43 :
+- Day 43 :[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem)
 - Day 44 :
 - Day 45 :
 - Day 46 :
