@@ -510,7 +510,7 @@ Problems Solved :
 - Day 41 :[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)
 - Day 42 :[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem)
 - Day 43 :[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem)
-- Day 44 :
+- Day 44 :[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem)
 - Day 45 :
 - Day 46 :
 - Day 47 :
