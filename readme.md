@@ -516,7 +516,7 @@ Problems Solved :
 - Day 47 :[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem)
 - Day 48 :[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem)
 - Day 49 :[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) *(Finished the cut series problems)*
-- Day 50 :
+- Day 50 :[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem)
 - Day 51 :
 - Day 52 :
 - Day 53 :
