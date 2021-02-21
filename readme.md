@@ -518,7 +518,7 @@ Problems Solved :
 - Day 49 :[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) *(Finished the cut series problems)*
 - Day 50 :[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem)
 - Day 51 :[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) , [checkPalindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) , [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
-- Day 52 :
+- Day 52 :[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/dart) , [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
 - Day 53 :
 - Day 54 :
 - Day 55 :
