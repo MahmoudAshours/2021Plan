@@ -520,7 +520,7 @@ Problems Solved :
 - Day 51 :[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) , [checkPalindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) , [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
 - Day 52 :[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/dart) , [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
 - Day 53 :[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
-- Day 54 :
+- Day 54 :[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
 - Day 55 :
 - Day 56 :
 - Day 57 :
