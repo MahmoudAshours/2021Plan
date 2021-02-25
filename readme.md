@@ -521,7 +521,7 @@ Problems Solved :
 - Day 52 :[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/dart) , [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
 - Day 53 :[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
 - Day 54 :[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
-- Day 55 :
+- Day 55 :[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem)
 - Day 56 :
 - Day 57 :
 - Day 58 :
