@@ -524,7 +524,7 @@ Problems Solved :
 - Day 55 :[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem)
 - Day 56 :[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem)
 - Day 57 :[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem)
-- Day 58 :
+- Day 58 :[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem)
 - Day 59 :
 - Day 60 :
 - Day 61 :
