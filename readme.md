@@ -526,7 +526,7 @@ Problems Solved :
 - Day 57 :[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem)
 - Day 58 :[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem)
 - Day 59 :[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
-- Day 60 :[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) , [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem)
+- Day 60 :[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) , [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) , [Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem)
 - Day 61 :
 - Day 62 :
 - Day 63 :
