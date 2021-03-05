@@ -530,7 +530,7 @@ Problems Solved :
 - Day 61 :['Sort' command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem)
 - Day 62 :['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem)
 - Day 63 :['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem)
-- Day 64 :
+- Day 64 :['Uniq' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)
 - Day 65 :
 - Day 66 :
 - Day 67 :
