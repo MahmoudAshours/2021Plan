@@ -531,7 +531,7 @@ Problems Solved :
 - Day 62 :['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem)
 - Day 63 :['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem)
 - Day 64 :['Uniq' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)
-- Day 65 :
+- Day 65 :['Uniq' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem)
 - Day 66 :
 - Day 67 :
 - Day 68 :
