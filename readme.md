@@ -532,7 +532,7 @@ Problems Solved :
 - Day 63 :['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem)
 - Day 64 :['Uniq' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)
 - Day 65 :['Uniq' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem)
-- Day 66 :
+- Day 66 :[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
 - Day 67 :
 - Day 68 :
 - Day 69 :
