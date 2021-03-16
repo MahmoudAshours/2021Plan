@@ -339,6 +339,7 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 - Article 100 :
 
 ## Embedded systems
+Will make repo for it
 
 ## Data Mining
 
