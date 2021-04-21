@@ -535,7 +535,7 @@ Problems Solved :
 - Day 64 :['Uniq' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)
 - Day 65 :['Uniq' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem)
 - Day 66 :[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
-- Day 67 :
+- Day 67 :[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
 - Day 68 :
 - Day 69 :
 - Day 70 :
