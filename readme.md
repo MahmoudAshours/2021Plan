@@ -536,7 +536,7 @@ Problems Solved :
 - Day 65 :['Uniq' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem)
 - Day 66 :[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
 - Day 67 :[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
-- Day 68 :
+- Day 68 :[Grasshopper - Messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/train/dart)
 - Day 69 :
 - Day 70 :
 - Day 71 :
