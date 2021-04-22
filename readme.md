@@ -537,7 +537,7 @@ Problems Solved :
 - Day 66 :[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
 - Day 67 :[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
 - Day 68 :[Grasshopper - Messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/train/dart)
-- Day 69 :
+- Day 69 :[Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/dart)
 - Day 70 :
 - Day 71 :
 - Day 72 :
