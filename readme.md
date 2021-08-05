@@ -49,13 +49,13 @@ This is my final year at university , I could go 4 months without updating becau
 - [ ] Using Flutter to make chrome extension
 
 ## Flutter
-- [ ] Complete guide of FFMPEG (learning and using it in flutter)
+- [x] Complete guide of FFMPEG (learning and using it in flutter)
 - [ ] Mastering streams with Redux in Flutter.
 - [ ] Mastering streams with Bloc in Flutter
-- [ ] Complete guide of using python scripts in flutter
+- [x] Complete guide of using python scripts in flutter
 - [ ] Publish at least 1 flutter application on store.
 - [ ] Updates on [Copia](https://play.google.com/store/apps/details?id=com.copia.pdf&hl=en&gl=US).
-- [ ] Publish Flutter app on IOS 
+- [x] Publish Flutter app on IOS 
 - [ ] Testing in Flutter (Widget testing)
 
 #### Dart
@@ -420,6 +420,14 @@ ADB is a command line tool that lets you communicate with an Android device that
 - [Create virtual USB tether to ADB over WAN with no initial USB connection](https://androidforums.com/threads/create-virtual-usb-tether-to-adb-over-wan-with-no-initial-usb-connection.1150571/)
 - [HOW TO RUN SHELL SCRIPTS ON ANDROID DEVICES](https://www.pctips4u.com/2016/03/writing-shell-scripts-in-android.html)
 - [Android: adbd cannot run as root in production builds](https://stackoverflow.com/questions/25271878/android-adbd-cannot-run-as-root-in-production-builds)
+
+### Colorful comments in dart
+
+![](https://www.lihaoyi.com/post/Ansi/Red.png)
+
+Everyone is used to programs printing out output in a terminal that scrolls as new text appears, but that's not all your can do: your program can color your text, move the cursor up, down, left or right, or clear portions of the screen if you are going to re-print them later. This is what lets programs like Git implement its dynamic progress indicators, and Vim or Bash implement their editors that let you modify already-displayed text without scrolling the terminal.
+
+[How to call print() with colorful text to android studio console in flutter](https://stackoverflow.com/questions/54018071/how-to-call-print-with-colorful-text-to-android-studio-console-in-flutter)
 
 ## StackOverFlow
 
