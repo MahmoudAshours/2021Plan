@@ -16,6 +16,10 @@ I'll be breaking each topic to pieces including:
 
 I'll work to finish at least 3/4 of the topics! 
 
+## Disclamer 
+
+This is my final year at university , I could go 4 months without updating because of graduation project and stuff. but when I'm back I'll push my updates through the last month or so.
+
 ## Topics : 
 
 ### Extensions
