@@ -429,6 +429,18 @@ Everyone is used to programs printing out output in a terminal that scrolls as n
 
 [How to call print() with colorful text to android studio console in flutter](https://stackoverflow.com/questions/54018071/how-to-call-print-with-colorful-text-to-android-studio-console-in-flutter)
 
+## Headless chrome 
+
+![](https://developers.google.com/web/updates/images/2017/04/headless-chrome/remote-debugging-ui.jpg)
+
+Headless Chrome is shipping in Chrome 59. It's a way to run the Chrome browser in a headless environment. Essentially, running Chrome without chrome! It brings all modern web platform features provided by Chromium and the Blink rendering engine to the command line.
+
+Why is that useful?
+
+A headless browser is a great tool for automated testing and server environments where you don't need a visible UI shell. For example, you may want to run some tests against a real web page, create a PDF of it, or just inspect how the browser renders an URL.
+
+"Used this in scripting screenshots of websites"
+
 ## StackOverFlow
 
 ![stack](https://user-images.githubusercontent.com/50237142/103905149-e9da8d00-5106-11eb-848b-539cabec4706.png)
