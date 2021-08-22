@@ -78,7 +78,8 @@ This is my final year at university , I could go 4 months without updating becau
 - [FFMPEG Book](https://books.google.com.eg/books?id=4U34DwAAQBAJ&pg=PT64&dq=ffmpeg&hl=en&sa=X&ved=2ahUKEwi5q6fVxvvtAhVsaRUIHZNbBVEQ6AEwAHoECAMQAg#v=onepage&q&f=false)
 - [Where can I learn ffmpeg?](https://stackoverflow.com/questions/60230868/where-can-i-learn-ffmpeg)
 - [Editing multiple videos using FFMPEG](https://www.youtube.com/watch?v=wBCUqi52E4Q)
-
+- [How to reduce quality of multiple JPEG image files using ffmpeg?](https://stackoverflow.com/questions/35226237/how-to-reduce-quality-of-multiple-jpeg-image-files-using-ffmpeg)
+- [Use ffmpeg to add text subtitles](https://stackoverflow.com/questions/8672809/use-ffmpeg-to-add-text-subtitles)
 
 #### What is FFMPEG?
 
@@ -440,6 +441,7 @@ Why is that useful?
 A headless browser is a great tool for automated testing and server environments where you don't need a visible UI shell. For example, you may want to run some tests against a real web page, create a PDF of it, or just inspect how the browser renders an URL.
 
 "Used this in scripting screenshots of websites"
+
 
 ## StackOverFlow
 
