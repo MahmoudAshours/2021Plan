@@ -467,8 +467,15 @@ A headless browser is a great tool for automated testing and server environments
 
 ## [XCArchive to ipa](https://encyclopediaofdaniel.com/blog/xcarchive-to-ipa/)
 
+## Get YT videos srt
 
+You can get YT srt files from video using :"https://www.youtube.com/api/timedtext?&lang=en&v=insert video id"
+ 
+## [YT explode!](https://pub.dev/packages/youtube_explode_dart)
 
+This is a port of the YoutubeExplode library from C#, most of the functions, doc comments, readme information, is taken from YoutubeExplode repository.
+
+It used to build Youtube Downloader Flutter (A cross-platoform application to download video streams from youtube using this library & flutter) 
 ## StackOverFlow
 
 ![stack](https://user-images.githubusercontent.com/50237142/103905149-e9da8d00-5106-11eb-848b-539cabec4706.png)
