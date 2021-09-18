@@ -370,6 +370,7 @@ Go is an open source programming language that makes it easy to build simple, re
 
 ### Talks : 
 - [The Go Language: What Makes it Different? - Jay McGavren](https://www.youtube.com/watch?v=FEFXjRoac_U)
+- [GopherCon 2017: Russ Cox - The Future of Go](https://www.youtube.com/watch?v=0Zbh_vmAKvk)
 ## Data Mining
 
 
