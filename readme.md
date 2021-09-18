@@ -50,11 +50,11 @@ This is my final year at university , I could go 4 months without updating becau
 
 ## Flutter
 - [x] Complete guide of FFMPEG (learning and using it in flutter)
-- [ ] Mastering streams with Redux in Flutter.
+- [x] Mastering streams with Redux in Flutter.
 - [ ] Mastering streams with Bloc in Flutter
 - [x] Complete guide of using python scripts in flutter
-- [ ] Publish at least 1 flutter application on store.
-- [ ] Updates on [Copia](https://play.google.com/store/apps/details?id=com.copia.pdf&hl=en&gl=US).
+- [x] Publish at least 1 flutter application on store.
+- [x] Updates on [Copia](https://play.google.com/store/apps/details?id=com.copia.pdf&hl=en&gl=US).
 - [x] Publish Flutter app on IOS 
 - [ ] Testing in Flutter (Widget testing)
 
