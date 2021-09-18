@@ -108,9 +108,9 @@ FFmpeg plugin for Flutter. Supports iOS and Android.
 
 ### TODO
 - [ ] Make a native linux app
-- [ ] Linux administration course
-- [ ] Flutter Desktop app 
-- [ ] Ethical hacking & Penetration testing
+- [x] Linux administration course
+- [x] Flutter Desktop app 
+- [x] Ethical hacking & Penetration testing
 - [ ] Publish apps on snapcraft linux
 
 ### Introduction
@@ -180,6 +180,12 @@ If you can't download Kali linux for some reason ( I have ubuntu ) , You can dow
 
 The main reason is Kali Linux is used by hackers because it is a free OS and has over 600 tools for penetration testing and security analytics.
 We won't go deep in hacking/Cyber security but it's quite interesting using some of these tools!
+
+### Magamo Desktop application
+![Screen Shot 2021-09-18 at 10 45 12 PM](https://user-images.githubusercontent.com/50237142/133908087-11e1340b-fee3-4657-beb3-d0bdb3f77da5.png)
+
+Magamo is a desktop application made in Flutter which runs on Android , IOS , MACOS , Linux also Windows. 
+It's a basic white board application which can upload photos and explain or write on it.
 
 ## Unity
 
