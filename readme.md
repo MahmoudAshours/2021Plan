@@ -246,7 +246,7 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 - [Flutter unity 3D widget for embedding unity in the flutter](https://medium.com/ionicfirebaseapp/flutter-unity-3d-widget-for-embedding-unity-in-the-flutter-e6126eb4902c)
 
 
-## Generative Art
+## Automation
 
 
 ## Medium articles
