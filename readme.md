@@ -94,7 +94,7 @@ FFmpeg plugin for Flutter. Supports iOS and Android.
 ### Resources :
 - [Article about FFMPEG FLutter](https://medium.com/hamza-solutions/ffmpeg-tool-with-flutter-ac1d68c2fddb?source=rss-------1)
 - [FFMPEG Package in Flutter](https://pub.dev/packages/flutter_ffmpeg)
-
+- [Slideshow using FFMPEG](https://trac.ffmpeg.org/wiki/Slideshow)
 ### Tracking progress :
 - [x] Worked on a [shell script on linux](https://github.com/MeitanteiAshour/BasicLinuxScripts/blob/master/README.md#adding-different-commands) that uses FFMPEG 
 - [x] Working on FFMPEG rendering videos , audios in Moaref project.
