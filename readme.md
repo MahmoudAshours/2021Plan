@@ -365,6 +365,11 @@ This is rather different from virtual reality. Virtual reality means computer-ge
 ## Embedded systems
 Will make repo for it
 
+## GO
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
+### Talks : 
+- [The Go Language: What Makes it Different? - Jay McGavren](https://www.youtube.com/watch?v=FEFXjRoac_U)
 ## Data Mining
 
 
