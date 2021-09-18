@@ -100,7 +100,11 @@ FFmpeg plugin for Flutter. Supports iOS and Android.
 - [x] Working on FFMPEG rendering videos , audios in Moaref project.
 
 ## Design pattern
-- [ ] Design pattern course.
+- [x] Design pattern course.
+
+![64391306-4f4b-4182-98e1-b20256a1d5aa __CR0,0,750,750_PT0_SX300_V1___](https://user-images.githubusercontent.com/50237142/133908154-c079df6b-44b5-4b86-aa19-139f2cc80265.jpg)
+
+Bought head first design patterns , I'll be implementing design pattern using Dart in this repository.
 
 ## Linux
 
