@@ -99,6 +99,10 @@ FFmpeg plugin for Flutter. Supports iOS and Android.
 - [x] Worked on a [shell script on linux](https://github.com/MeitanteiAshour/BasicLinuxScripts/blob/master/README.md#adding-different-commands) that uses FFMPEG 
 - [x] Working on FFMPEG rendering videos , audios in Moaref project.
 
+### Common issues 
+- [Right-to-left option for drawtext filter](https://trac.ffmpeg.org/ticket/3758)
+- [_flutterFFmpegConfig.setFontDirectory not working properly until app is restarted](https://github.com/tanersener/flutter-ffmpeg/issues/138)
+- 
 ## Design pattern
 - [x] Design pattern course.
 
@@ -191,6 +195,11 @@ We won't go deep in hacking/Cyber security but it's quite interesting using some
 Magamo is a desktop application made in Flutter which runs on Android , IOS , MACOS , Linux also Windows. 
 It's a basic white board application which can upload photos and explain or write on it.
 
+### Common issues :
+
+- [While loop in bash to read a file skips first 2 characters of THIRD Line](https://stackoverflow.com/questions/51146890/while-loop-in-bash-to-read-a-file-skips-first-2-characters-of-third-line)
+- [How to upload an iOS app to the app store via command line](https://stackoverflow.com/questions/11888122/how-to-upload-an-ios-app-to-the-app-store-via-command-line/27139749)
+- 
 ## Unity
 
 - [ ] Publish AR app with unity
@@ -451,6 +460,13 @@ Why is that useful?
 A headless browser is a great tool for automated testing and server environments where you don't need a visible UI shell. For example, you may want to run some tests against a real web page, create a PDF of it, or just inspect how the browser renders an URL.
 
 "Used this in scripting screenshots of websites"
+
+## Create DMG Macos
+
+[A shell script to build fancy DMGs.](https://github.com/create-dmg/create-dmg)
+
+## [XCArchive to ipa](https://encyclopediaofdaniel.com/blog/xcarchive-to-ipa/)
+
 
 
 ## StackOverFlow
