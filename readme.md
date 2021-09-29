@@ -199,7 +199,20 @@ It's a basic white board application which can upload photos and explain or writ
 
 - [While loop in bash to read a file skips first 2 characters of THIRD Line](https://stackoverflow.com/questions/51146890/while-loop-in-bash-to-read-a-file-skips-first-2-characters-of-third-line)
 - [How to upload an iOS app to the app store via command line](https://stackoverflow.com/questions/11888122/how-to-upload-an-ios-app-to-the-app-store-via-command-line/27139749)
-- 
+
+# Rust 
+
+![](https://www.rust-lang.org/static/images/rust-social-wide.jpg)
+
+Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+
+- [All About Rust](https://www.youtube.com/watch?v=FYGS2q1bljE)
+- [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI)
+- [12 Things to Help You Learn Rust](https://www.youtube.com/watch?v=a8abW3RlOn8)
+- [Rust playground](https://play.rust-lang.org/)
+- [Official docs](https://www.rust-lang.org/)
+
+
 ## Unity
 
 - [ ] Publish AR app with unity
