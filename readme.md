@@ -388,6 +388,7 @@ Each topic in every book can be written & summarized into an article.
 - [ ] Finishing Head first Design Patterns book.
 - [ ] Finishing Flutter recipes book.
 - [ ] Finishing Practical flutter book.
+- [ ] Finishing Think like a programmer
 
 ## WatchOs
 - [ ] Complete mastering of Tizen OS
